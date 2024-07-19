@@ -8,8 +8,19 @@
 
 - [Awesome AI Applications ](#awesome-ai-applications-)
   - [Table of Contents](#table-of-contents)
+- [AI Graveyard](#ai-graveyard)
 - [GeoSpy - AI Powered Image Geo-Location Tool](#geospy---ai-powered-image-geo-location-tool)
 - [InfoQ - Chinese Large Model Product Landscape](#infoq---chinese-large-model-product-landscape)
+
+---
+
+# AI Graveyard
+
+[AI Graveyard - AI 坟场](https://dang.ai/ai-graveyard)
+
+![](Pics/grave001.png)
+
+
 
 ---
 
